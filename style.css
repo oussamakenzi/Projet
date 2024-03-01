@@ -1,0 +1,117 @@
+*{
+    margin:0;
+    padding:0;
+}
+#im {
+    padding-top: 100px;
+}
+a {
+    padding-left:25px ;
+    padding-right: 25px;
+    text-decoration:none;
+    color: #000;
+}
+.div {
+
+    display:flex;
+    height: 45px;
+    background-color: antiquewhite;
+    padding-top: 25px;
+
+}
+.logo {
+    margin-top: -8px;
+}
+.main {
+    padding-left: 70px;
+    font-size : 25px;
+    font-weight: bold;
+    padding-top: 100px;
+    width: 500px;
+   
+}
+.master{
+    display: flex;
+}
+span{
+    color: #f98e23;
+}
+#image{
+    padding-left: 421px;
+    margin-top: -260px;
+    margin-left: 73px;
+}
+#pa{
+    margin-top: -200px;
+    width: 500px;
+    padding-left: 70px;
+}
+#bottom{
+    padding: 10px;
+    background-color: #f98e23;
+    margin-top: 9px;
+    width: 150px;
+    font-weight: 200;
+    font-size: 18px;
+}
+#bottom a{
+   color:white;
+}
+.para1 {
+    margin-top: -235px;
+    font-size: 15px;
+    font-weight: 200;
+}
+
+#login {
+    background-color: #f98e23;
+    padding: 10px;
+    color: white;
+}
+h3{
+    padding-top: 200px;
+    padding-left: 50px;
+}
+.box{
+   
+    display: flex;
+    margin-top: 10px;
+   width: calc(100/4);
+   
+
+    
+}
+.un{
+    padding-left: 50px;
+
+}
+.deux{
+    padding-left: 70px;
+}
+.trois{
+    padding-left: 70px;
+}
+.quatre{
+    padding-left: 70px;
+}
+h5{
+    padding: 15px 15px 15px 0;
+}
+footer{
+    margin-top: 30px;
+    background-color:antiquewhite ;
+    height: 175px;
+    
+}
+.fin{
+    padding-top:30px ;
+    padding-left: 60px;
+    
+
+}
+h4 {
+    padding-bottom: 20px;
+}
+.fin > p{
+    padding-bottom: 20px;
+}
